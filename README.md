@@ -15,4 +15,7 @@ To run this app
 - Setting up a simple node.js app
 - Usage of Chalk Library
 
+## Features
+- You get scores and stars based on levels
+
 ![Screenshot](mark2.png?raw=true)
